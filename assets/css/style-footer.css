@@ -1,0 +1,45 @@
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    border-top: 1px solid #ccc;
+    align-items: center;
+}
+
+.footer-content p {
+    margin: 5px 0;
+}
+
+.mi_contacto {
+    grid-column: 1;
+}
+
+.sociales {
+    grid-column: 3;
+    justify-self: center; /* Centra horizontalmente en la celda */
+}
+
+.copyright {
+    grid-column: 2;
+    justify-self: end; /* Alinea a la derecha dentro de su celda */
+    text-align: right;
+}
+
+.redes_sociales {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #0077b5;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.redes_sociales:hover {
+    color: #005682;
+    text-decoration: underline;
+}
+
+

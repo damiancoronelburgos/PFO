@@ -1,0 +1,265 @@
+
+/* SECCION SOBRE MI */
+.card_sobre_mi {
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    padding: 2px;
+    margin: 2px;
+}
+
+.card_sobre_mi .texto {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.card_sobre_mi p {
+    padding: 10px;
+    margin-right:200px ;
+
+
+}
+
+
+
+#foto_sobre_mi {
+    display:  block;
+    width: 10%;
+    justify-content: right;
+    align-items: right;
+    border: 2px solid #000;
+    border-radius: 10px;
+    position: absolute;
+    right: 40px;
+
+}
+
+#foto_sobre_mi .img {
+
+    max-width: 200px;
+    height: auto;
+    margin: 2px;
+    
+}
+
+
+/* SECCION MIS PROYECTOS  */
+
+.card_mis_proyectos {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: flex-start; 
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+}
+
+.card_mis_proyectos .intro_titulo_proyectos {
+    width: 100%; 
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.conteiner-proyectos {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    gap: 20px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.item_proyectos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 45%;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    height: 300px;
+    max-height: 400px;
+    overflow: auto;
+    transition: transform 0.5 ease, boxshadow 0.3 ease;
+}
+
+.item_proyectos:hover{
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+
+}
+
+
+
+
+.item_proyectos h2 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.item_proyectos p {
+    display: flex;
+    margin-bottom: 15px;
+    text-align: center;
+
+
+}
+
+.item_proyectos img {
+    max-width: 30%;
+    max-height: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 2px solid #000;
+    margin-top: 10px;
+    overflow: auto;
+}
+
+
+
+/* SECCION CRECIMIENTO Y ASPIRACIONES  */
+
+.content-public-tecnologias {
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    justify-content: center;
+}
+
+.table-tecnologias {
+    
+    text-align: center;
+    align-items: center;
+    
+
+}
+
+.table-tecnologias table{
+    display: flex;
+    justify-content: left;
+    text-align: center;
+    
+}
+
+
+th {
+    display: flex;
+    border-radius: 10px;
+    border: 2px solid rgb(49, 49, 182);
+    border-color: rgb(94, 94, 206);
+    padding: 20px;
+    text-align: center;
+    white-space: nowrap; 
+    background-color: #fef9f9;
+    transition: background-color 0.3s ease;
+    
+}
+
+th:hover {
+    background-color: rgb(43, 132, 167);
+}
+
+
+/* este es solo para el titulo de mis intereses*/
+.titulo_mis_intereses {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%; /* o el ancho que necesites */
+  }
+  
+  .hobbies {
+    display: flex;
+    width: 25%;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .mejor_peliculas {
+    display: flex;
+    width: 75%;
+    text-align: center;
+    justify-content: center;
+  }
+  
+
+
+
+
+/* mis intereses */
+
+
+.content-public-personal{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+
+.table-hobbies {
+    display: flex;
+    width: 25%;
+    justify-content: center;
+    margin-top: 20px;
+
+
+}
+
+.content-public-peliculas {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    gap: 20px;
+    width: 75%;
+    align-items: center;
+    justify-content: top;
+    
+}
+
+.pelicula{
+
+    background-color: azure;
+    align-items: center;
+    border-radius: 20px;
+    text-align: center;
+    padding: 15px;
+    margin: 10px auto;
+    min-height: 450px;
+    max-width: 450px;
+
+
+
+}
+
+
+.pelicula p {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.pelicula .img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 20px;
+
+
+}
+
+
