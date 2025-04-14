@@ -20,23 +20,27 @@ Se trata de un sitio web One Page, organizado en distintas secciones que refleja
 
 🌱 Tecnologías Utilizadas: HTML5, CSS3
 
+__________________________________________________________
 
 
 📁 Estructura del Proyecto
 
-✅ index.html ubicado en la raíz del proyecto
+  ✅ index.html ubicado en la raíz del proyecto
 
-✅ Carpeta css/ que contiene styles.css
+  ✅ Carpeta css/ que contiene styles.css
 
-✅ (Opcional) Carpeta img/ para recursos gráficos
+  ✅ (Opcional) Carpeta img/ para recursos gráficos
 
-✅ Archivo README.md creado con:
+  ✅ Archivo README.md creado con:
+  
+      ✅ Breve descripción del trabajo práctico
 
-✅ Breve descripción del trabajo práctico
+      ✅ Este checklist
 
-✅ Este checklist
 
+__________________________________________________________
 ☁️ Repositorio y Publicación
+
 ✅ Repositorio creado en GitHub
 
 ✅ Proyecto subido correctamente al repositorio
@@ -45,51 +49,59 @@ Se trata de un sitio web One Page, organizado en distintas secciones que refleja
 
 ✅ URL de GitHub Pages incluida en el README.md
 
-🔤 Uso de Google Fonts
-✅ Enlace a Google Fonts agregado dentro de la etiqueta <head> del HTML
+__________________________________________________________
 
-✅ Tipografía aplicada correctamente en el sitio
+🔤 Uso de Google Fonts:
 
-📝 ¿Por qué elegiste esa fuente?
+  ✅ Enlace a Google Fonts agregado dentro de la etiqueta <head> del HTML
 
-Porque es la que más me gustó.
+  ✅ Tipografía aplicada correctamente en el sitio
 
+  📝 ¿Por qué elegiste esa fuente?
+
+      Porque es la que más me gustó.
+__________________________________________________________
 🧱 HTML
-✅ Uso de <!DOCTYPE html> y lang="es" en la etiqueta <html>
 
-✅ Inclusión de metaetiquetas obligatorias: charset y viewport
+  ✅ Uso de <!DOCTYPE html> y lang="es" en la etiqueta <html>
 
-✅ Título del documento bien definido
+  ✅ Inclusión de metaetiquetas obligatorias: charset y viewport
 
-✅ Archivos CSS y Google Fonts correctamente vinculados
+  ✅ Título del documento bien definido
 
-🔗 Estructura mínima del <main>
-✅ Barra de navegación (<nav>) con al menos 3 enlaces
+  ✅ Archivos CSS y Google Fonts correctamente vinculados
 
+  🔗 Estructura mínima del <main>
+  
+  ✅ Barra de navegación (<nav>) con al menos 3 enlaces
+__________________________________________________________
 🎨 CSS
-✅ Archivo styles.css contiene estilos personalizados
 
-✅ Estilos organizados correctamente y separados del HTML
+  ✅ Archivo styles.css contiene estilos personalizados
 
-✅ Uso de selectores por clases e identificadores
+  ✅ Estilos organizados correctamente y separados del HTML
 
-✅ Tipografía importada aplicada correctamente a todos los elementos
+  ✅ Uso de selectores por clases e identificadores
 
+  ✅ Tipografía importada aplicada correctamente a todos los elementos
+__________________________________________________________
 🧩 Layout y Organización
-✅ Layout implementado usando Flexbox o Grid
 
-📝 ¿Qué ventajas encontraste al utilizar Flexbox o Grid?
+  ✅ Layout implementado usando Flexbox o Grid
 
-Flexbox es particularmente ventajoso cuando hay una cantidad definida de elementos.
-Grid es muy útil cuando la cantidad de elementos puede variar, ya que mantiene todo ordenado automáticamente. Es muy práctico en ese caso.
+  📝 ¿Qué ventajas encontraste al utilizar Flexbox o Grid?
 
+    Flexbox es particularmente ventajoso cuando hay una cantidad definida de elementos.
+    Grid es muy útil cuando la cantidad de elementos puede variar, ya que mantiene todo ordenado automáticamente. Es muy práctico en ese caso.
+__________________________________________________________
 🖌️ Estilización de Componentes
-✅ Estilos personalizados para tablas, botones, enlaces y formularios
 
-✅ Uso de unidades relativas (%, rem, vh) para imágenes y contenedores
+  ✅ Estilos personalizados para tablas, botones, enlaces y formularios
 
-✅ Implementación de al menos una animación o transición
+  ✅ Uso de unidades relativas (%, rem, vh) para imágenes y contenedores
 
-📝 ¿Qué animación o transición implementaste y por qué?
+  ✅ Implementación de al menos una animación o transición
 
-Implementé hover y scale porque son las que estéticamente mejor se adaptaban a la página, a mi parecer.
+  📝 ¿Qué animación o transición implementaste y por qué?
+
+      Implementé hover y scale porque son las que estéticamente mejor se adaptaban a la página, a mi parecer.
