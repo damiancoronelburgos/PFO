@@ -94,8 +94,10 @@ __________________________________________________________
 
   📝 ¿Qué ventajas encontraste al utilizar Flexbox o Grid?
 
-    Flexbox es particularmente ventajoso cuando hay una cantidad definida de elementos.
-    Grid es muy útil cuando la cantidad de elementos puede variar, ya que mantiene todo ordenado automáticamente. Es muy práctico en ese caso.
+    Flexbox es particularmente ventajoso cuando hay una cantidad definida de elementos, o mejor dicho cuando los elementos los voy a ordenar
+    teniendo en cuenta que son como "cajas" y los ordenos en fila o columnas mientras que grid es como un conjunto, como si fuera una grilla  
+    es decir , esta mas orientado para ordenar los elementos en filas y columnas, aparte Grid es muy útil cuando la cantidad de elementos puede
+    variar, ya que a mi parecer es mas facil de mantener todo ordenado y estructurado. Es muy práctico en ese caso.
 __________________________________________________________
 🖌️ Estilización de Componentes
 
