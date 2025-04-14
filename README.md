@@ -21,22 +21,33 @@ Se trata de un sitio web One Page, organizado en distintas secciones que refleja
 🌱 Tecnologías Utilizadas: HTML5, CSS3
 
 
+
 📁 Estructura del Proyecto
+
 ✅ index.html ubicado en la raíz del proyecto
+
 ✅ Carpeta css/ que contiene styles.css
+
 ✅ (Opcional) Carpeta img/ para recursos gráficos
+
 ✅ Archivo README.md creado con:
-  ✅ Breve descripción del trabajo práctico
-  ✅ Este checklist
+
+✅ Breve descripción del trabajo práctico
+
+✅ Este checklist
 
 ☁️ Repositorio y Publicación
 ✅ Repositorio creado en GitHub
+
 ✅ Proyecto subido correctamente al repositorio
+
 ✅ Proyecto publicado en GitHub Pages
+
 ✅ URL de GitHub Pages incluida en el README.md
 
 🔤 Uso de Google Fonts
 ✅ Enlace a Google Fonts agregado dentro de la etiqueta <head> del HTML
+
 ✅ Tipografía aplicada correctamente en el sitio
 
 📝 ¿Por qué elegiste esa fuente?
@@ -45,8 +56,11 @@ Porque es la que más me gustó.
 
 🧱 HTML
 ✅ Uso de <!DOCTYPE html> y lang="es" en la etiqueta <html>
+
 ✅ Inclusión de metaetiquetas obligatorias: charset y viewport
+
 ✅ Título del documento bien definido
+
 ✅ Archivos CSS y Google Fonts correctamente vinculados
 
 🔗 Estructura mínima del <main>
@@ -54,8 +68,11 @@ Porque es la que más me gustó.
 
 🎨 CSS
 ✅ Archivo styles.css contiene estilos personalizados
+
 ✅ Estilos organizados correctamente y separados del HTML
+
 ✅ Uso de selectores por clases e identificadores
+
 ✅ Tipografía importada aplicada correctamente a todos los elementos
 
 🧩 Layout y Organización
@@ -68,7 +85,9 @@ Grid es muy útil cuando la cantidad de elementos puede variar, ya que mantiene 
 
 🖌️ Estilización de Componentes
 ✅ Estilos personalizados para tablas, botones, enlaces y formularios
+
 ✅ Uso de unidades relativas (%, rem, vh) para imágenes y contenedores
+
 ✅ Implementación de al menos una animación o transición
 
 📝 ¿Qué animación o transición implementaste y por qué?
